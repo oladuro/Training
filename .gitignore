@@ -50,5 +50,3 @@ builds/**/images/*
 *.pem
 *.xxjson
 
-# Ignore .gitignore
-*.gitignore
