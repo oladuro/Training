@@ -51,4 +51,4 @@ builds/**/images/*
 *.xxjson
 
 # Ignore .gitignore
-.gitignore
+*.gitignore
